@@ -1,9 +1,0 @@
-﻿  Game0002_DoodleJump.cpp
-  GameEngine.cpp
-C:\Users\user\Desktop\CppPractice\SFML\MyProjects\Game0002_DoodleJump\Game0002_DoodleJump\GameEngine.cpp(44,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  Создание кода
-  Создание кода завершено
-  76 of 79 functions (96.2%) were compiled, the rest were copied from previous compilation.
-    75 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
-  Game0002_DoodleJump.vcxproj -> C:\Users\user\Desktop\CppPractice\SFML\MyProjects\Game0002_DoodleJump\Release\Game0002_DoodleJump.exe
