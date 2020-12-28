@@ -1,0 +1,6 @@
+﻿  Game0002_DoodleJump.cpp
+  GameEngine.cpp
+C:\Users\user\Desktop\CppPractice\SFML\MyProjects\Game0002_DoodleJump\Game0002_DoodleJump\GameEngine.cpp(44,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  GameObject.cpp
+  Создание кода...
+  Game0002_DoodleJump.vcxproj -> C:\Users\user\Desktop\CppPractice\SFML\MyProjects\Game0002_DoodleJump\Debug\Game0002_DoodleJump.exe

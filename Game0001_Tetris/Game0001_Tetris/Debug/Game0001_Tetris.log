@@ -1,0 +1,14 @@
+﻿  Game0001_Tetris.cpp
+C:\Users\user\Desktop\CppPractice\SFML\MyProjects\Game0001_Tetris\Game0001_Tetris\Game0001_Tetris.cpp(18,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  GameData.cpp
+  GameEngine.cpp
+C:\Users\user\Desktop\CppPractice\SFML\MyProjects\Game0001_Tetris\Game0001_Tetris\GameEngine.cpp(31,59): warning C4305: =: усечение из "double" в "float"
+C:\Users\user\Desktop\CppPractice\SFML\MyProjects\Game0001_Tetris\Game0001_Tetris\GameEngine.cpp(40,14): warning C4305: =: усечение из "double" в "float"
+C:\Users\user\Desktop\CppPractice\SFML\MyProjects\Game0001_Tetris\Game0001_Tetris\GameEngine.cpp(91,13): warning C4305: =: усечение из "double" в "float"
+C:\Users\user\Desktop\CppPractice\SFML\MyProjects\Game0001_Tetris\Game0001_Tetris\GameEngine.cpp(103,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\Desktop\CppPractice\SFML\MyProjects\Game0001_Tetris\Game0001_Tetris\GameEngine.cpp(103,20): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\Desktop\CppPractice\SFML\MyProjects\Game0001_Tetris\Game0001_Tetris\GameEngine.cpp(111,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\Desktop\CppPractice\SFML\MyProjects\Game0001_Tetris\Game0001_Tetris\GameEngine.cpp(111,24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  GameFigure.cpp
+  Создание кода...
+  Game0001_Tetris.vcxproj -> C:\Users\user\Desktop\CppPractice\SFML\MyProjects\Game0001_Tetris\Debug\Game0001_Tetris.exe
